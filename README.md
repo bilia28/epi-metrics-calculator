@@ -1,4 +1,7 @@
-# epi-metrics-calculator
+# Epidemiology Metrics Calculator for Surveillance & Outbreak Response
+
+A professional public health analytics tool designed to compute key outbreak metrics including Attack Rate, CFR, Incidence, Prevalence, and Doubling Time.
+🌐 Live App: https://your-app-name.streamlit.app
 
 Python-based Epidemiology Metrics Calculator for Surveillance &amp; Outbreak Response
 A Python-based console application designed to compute key epidemiological indicators used in surveillance and outbreak response.
